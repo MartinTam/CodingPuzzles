@@ -4,11 +4,20 @@ Write a program to generate and display the first 'n' lines of a Floyd triangle.
 
 ## Example:
 
-Input:
+Input 1:
+	
+	2
+
+Output 1:
+
+	1
+	2 3
+
+Input 2:
 
 	4
 
-Output:
+Output 2:
 
 	1
 	2 3
