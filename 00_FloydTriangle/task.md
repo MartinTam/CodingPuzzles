@@ -1,6 +1,6 @@
 # Floyd Triangle:
 
-Write a program to generate and display the first 'n' lines of a Floyd triangle.
+A program to generate and display the first 'n' lines of a Floyd triangle.
 
 ## Example:
 
